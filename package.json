@@ -1,0 +1,21 @@
+{
+  "name": "buf-to-uint",
+  "description": "read an unsigned integer from a buffer into a good ol' javascript number.",
+  "version": "0.0.2",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rhodey/buf-to-uint.git"
+  },
+  "homepage": "https://github.com/rhodey/buf-to-uint",
+  "dependencies": {
+    "bignum": "^0.12.5"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "buffer",
+    "uint"
+  ],
+  "author": "rhodey orbits <rhodey@anhonesteffort.org> (https://rhodey.org)",
+  "license": "SEE LICENSE IN LICENSE"
+}
