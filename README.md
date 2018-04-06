@@ -1,5 +1,4 @@
 # buf-to-uint [![NPM version](https://badge.fury.io/js/buf-to-uint.svg)](https://npmjs.org/package/buf-to-uint)
-
 Read an [unsigned integer](http://kias.dyndns.org/comath/13.html) from a [Buffer](https://nodejs.org/api/buffer.html) into a good ol' JavaScript [Number](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number). Uses [bignum](https://www.npmjs.com/package/bignum) under-the-hood for bitwise operations. At this time only [Big Endian](https://en.wikipedia.org/wiki/Endianness) support is provided.
 
 ## example
